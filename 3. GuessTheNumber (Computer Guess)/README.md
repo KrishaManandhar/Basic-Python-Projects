@@ -4,15 +4,15 @@ In this project "Guess The Number", user decides a number between some interval 
 
 ## Guess The Number - as a project
 
-In this project, we will learn 
---> Python module "random"
---> Working of while loop and conditionals
+In this project, we will learn <br>
+--> Python module "random"<br>
+--> Working of while loop and conditionals<br>
 --> Getting user input
 
 ## Guess The Number - includes
 
---> Import random and use random.randint(a,b) to let computer to choose a number
---> Apply while loop in order to iterate code if computer chose number is not matched with user
+--> Import random and use random.randint(a,b) to let computer to choose a number<br>
+--> Apply while loop in order to iterate code if computer chose number is not matched with user<br>
 --> Use comditionals (if..else) to check whether the number chose by computer is matched, low or high
 
 My code is attached above. Please refer to it.
